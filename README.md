@@ -8,3 +8,6 @@
 - PyTorch의 DataLoader와 Transforms 사용법
 - MLP 구조 설계 및 ReLU 활성화 함수의 역할 이해
 - t-SNE를 활용한 데이터 시각화
+
+## Modifications
+- 한글 주석 추가
