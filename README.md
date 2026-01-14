@@ -11,3 +11,4 @@
 
 ## Modifications
 - 한글 주석 추가
+- 설명 추가
